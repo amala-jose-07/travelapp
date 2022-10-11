@@ -1,11 +1,9 @@
-English | [简体中文](./README.zh-CN.md)
+This is an app by Amala Jose.
+
 # 🛫Flutter Travel App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Flutter representation of a Travel App Concept i found in Uplabs. 
 **It only consists of 2 screens.**
-
-Star⭐ the repo if you like what you see😉.
-
 
 Images are from [Unsplash](https://unsplash.com)
 ## 📸 ScreenShots
@@ -31,8 +29,7 @@ The App's theme adapts to your device's theme
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
+**Amala Jose** 
 
 ## Getting Started
 
